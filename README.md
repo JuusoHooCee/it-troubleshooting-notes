@@ -41,4 +41,11 @@ Each case includes:
 
 ## 📒 Cases
 
-(Work in progress)
+- [DNS domain join issue](dns-domain-join-issue.md)
+- [DNS resolution issue](dns-resolution-issue.md)
+- [Network drive mapping](network-drive-mapping.md)
+- [Printer not printing](printer-not-printing.md)
+- [Screensaver not applying](screensaver-not-applying.md)
+- [User cannot login](user-cannot-login.md)
+
+> More cases will be added over time.
